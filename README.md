@@ -1,0 +1,2 @@
+# staticweb
+just a test
